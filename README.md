@@ -1,1 +1,1 @@
-my fist readme
+my first readme
